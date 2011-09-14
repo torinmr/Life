@@ -6,3 +6,7 @@ To run: java GameOfLife < [input file]
    Where [input file] is a txt file containing the desired initial pattern, where 0 corresponds to dead cells, and 1 corresponds to live cells. The pattern must be prefixed by the dimensions of the pattern.
 
 The input file 'glider.txt' contains a glider gun.
+
+
+This program uses Sedgewick and Wayne's standard libraries, used in COS 126 at Princeton University. These libraries are available at http://introcs.cs.princeton.edu/java/stdlib/
+
